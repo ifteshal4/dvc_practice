@@ -1,0 +1,5 @@
+outs:
+- md5: 505b651dcec9d013658502ebfd50157e
+  size: 6060513
+  hash: md5
+  path: aws_cheenai.zip
