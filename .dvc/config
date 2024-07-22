@@ -1,4 +1,11 @@
 [core]
+<<<<<<< HEAD
     remote = myremote
 ['remote "myremote"']
     url = /home/intozi/dvc_practice/local_gdrive
+=======
+    autostage = true
+    remote = storage
+['remote "storage"']
+    url = gdrive://1HpYtskMDu-tAHzAYVZGqtMGVwnOmJh0a
+>>>>>>> origin/data_to_push
